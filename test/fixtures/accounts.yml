@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_number: MyText
+  last_name: MyString
+  first_name: MyString
+  middle: MyString
+  dob: 2016-05-01
+  balance: 1
+  extra: 
+
+two:
+  card_number: MyText
+  last_name: MyString
+  first_name: MyString
+  middle: MyString
+  dob: 2016-05-01
+  balance: 1
+  extra: 
